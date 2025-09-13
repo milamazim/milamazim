@@ -34,16 +34,9 @@
 - [LinkedIn](https://linkedin.com/in/camila-c-marques)
 
 ---
-
-<details>
-  <summary>📊 Estatísticas GitHub</summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=milamazim&show_icons=true&theme=tokyonight" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milamazim&layout=compact&theme=tokyonight"/>
-  </p>
-</details>
-
-
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milamazim&layout=compact&theme=tokyonight"/>
+  
 
 <!--## Hi there 👋 -->
 
