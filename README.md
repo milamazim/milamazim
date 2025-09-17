@@ -7,7 +7,7 @@
 <!-- Badges das techs principais (use shields.io ou arredonde para suas favoritas) -->
 <p align="center">
   <!-- Skillicons para ícones bonitos (pode adicionar/remover linguagens) -->  
-  <img src="https://skillicons.dev/icons?i=java,python,c,git,sql,eclipse,vscode,anaconda" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,git,mysql,eclipse,vscode,anaconda" />
 </p>
 
 ---
