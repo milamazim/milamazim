@@ -14,7 +14,7 @@
 
 ## 👩‍💻 Sobre mim
 
-- ✨ Em transição de carreira para programação
+<!--- ✨ Em transição de carreira para programação-->
 - 🌱 Ampliando conhecimentos em **Java e Python**
 - 🏙️ Porto Alegre, RS | 🇧🇷
 
