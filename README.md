@@ -35,7 +35,7 @@
 
 ---
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milamazim&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milamazim&layout=compact"/>
   
 
 <!--## Hi there 👋 -->
