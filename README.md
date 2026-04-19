@@ -22,11 +22,15 @@ I'm a backend developer in transition, focused on building real-world applicatio
 
 A full CRUD task management system with dynamic status handling and clean backend structure.
 
-## 📫 Contact
+🔹 [Mini CRM with Django](https://github.com/milamazim/django-mini-crm)
 
-* GitHub: https://github.com/milamazim
+A lightweight CRM focused on sales pipeline tracking and structured budget generation with built-in business rules.
 
 ---
+
+<!--## 📫 Contact
+
+* GitHub: https://github.com/milamazim -->
 
 <!-- Título de destaque -
 <h1 align="center">Oi, sou a Camila! 👋</h1>
